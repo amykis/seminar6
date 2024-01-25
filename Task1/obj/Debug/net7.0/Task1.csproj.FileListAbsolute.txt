@@ -12,3 +12,4 @@ D:\KursGeekBrains\Git_education_C#\Seminar6\Task1\obj\Debug\net7.0\refint\Task1.
 D:\KursGeekBrains\Git_education_C#\Seminar6\Task1\obj\Debug\net7.0\Task1.pdb
 D:\KursGeekBrains\Git_education_C#\Seminar6\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
 D:\KursGeekBrains\Git_education_C#\Seminar6\Task1\obj\Debug\net7.0\ref\Task1.dll
+D:\KursGeekBrains\Git_education_C#\Seminar6\Task1\obj\Debug\net7.0\Task1.sourcelink.json
